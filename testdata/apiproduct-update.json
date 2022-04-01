@@ -1,0 +1,24 @@
+{
+    "apiResources": [
+      "/"
+    ],
+    "approvalType": "auto",
+    "attributes": [
+      {
+        "name": "attr 1",
+        "value": "value 1"
+      },{
+        "name": "attr 2",
+        "value": "value 2"
+      }
+    ],
+    "description": "My API product TEST description 2",
+    "displayName": "My API product TEST displayName 2",
+    "environments": [],
+    "name": "testmyapiproduct",
+    "proxies": [],
+    "scopes": [
+      "read",
+      "write"
+    ]
+  }

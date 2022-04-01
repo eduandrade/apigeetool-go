@@ -1,0 +1,16 @@
+{
+    "email" : "test_dev@email.com",
+    "firstName" : "first_name2",
+    "lastName" : "last_name2",
+    "userName" : "user_name2",
+    "attributes" : [{
+       "name": "test1",
+       "value": "1"
+    },{
+        "name": "test2",
+        "value": "2"
+     },{
+      "name": "test3",
+      "value": "3"
+   }]
+  }

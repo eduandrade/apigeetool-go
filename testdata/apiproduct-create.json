@@ -1,0 +1,18 @@
+{
+    "apiResources": [
+      "/"
+    ],
+    "approvalType": "auto",
+    "attributes": [
+      {
+        "name": "access",
+        "value": "public"
+      }
+    ],
+    "description": "My API product TEST description",
+    "displayName": "My API product TEST displayName",
+    "environments": [],
+    "name": "testmyapiproduct",
+    "proxies": [],
+    "scopes": ["read"]
+  }
